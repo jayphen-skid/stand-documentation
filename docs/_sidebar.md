@@ -1,3 +1,3 @@
 * Getting Started
-  * [About Stand](README.md)
+  * [Quick Start Guide](README.md)
   * [Guide](guide.md)
